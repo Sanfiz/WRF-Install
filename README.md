@@ -1,5 +1,5 @@
 # WRF
-How to compile and run WRF
+How to compile and run WRF-SFIRE-Chem // Meteogrid Project
 # Description
 
 This repository contains the tests, configurations and scripts developed to run WRF model at Poznan HPC. It contains a directory with the collection of tests that have been carried out to ensure that the installation of the model at the HPC is correct and has all the modules needed and also some tests to study configuration and paralelization options and parameters.
